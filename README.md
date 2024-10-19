@@ -8,6 +8,7 @@ Este projeto tem como objetivo desenvolver um modelo capaz de prever se um clien
 - **Pandas**: Biblioteca para manipulação e análise de dados.
 - **Sklearn**: Biblioteca para construção de modelos de machine learning.
 - **Matplotlib.pyplot**: Biblioteca para construção de gráficos.
+- **Seaborn**: Biblioteca para construção de gráficos.
 
 ## Tabela
 O conjunto de dados possui os seguintes campos:
