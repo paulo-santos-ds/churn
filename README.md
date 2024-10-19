@@ -53,7 +53,7 @@ O conjunto de dados possui os seguintes campos:
 - AUC-ROC
 
 ## Resultados
-Treinamos nosso modelo e ele apresentou bons resultados nas métricas utilizadas, como o F1-score e o AUC-ROC. Embora o modelo não atinja o valor máximo em ambas as métricas, seu desempenho é aceitável para ser colocado em uso. Além disso, a Curva ROC indica que ele apresenta resultados superiores ao modelo aleatório.
+O modelo apresentou bons resultados nas métricas utilizadas, como o F1-score e o AUC-ROC. Embora o modelo não atinja o valor máximo em ambas as métricas, seu desempenho é aceitável para ser colocado em uso. Além disso, a Curva ROC indica que ele apresenta resultados superiores ao modelo aleatório.
 
 ## Aprendizados
 - **Análise de dados**: Interpretação e extração de insights valiosos a partir de grandes volumes de dados.
