@@ -3,8 +3,6 @@
 ## Descrição do Projeto
 Este projeto tem como objetivo desenvolver um modelo capaz de prever se um cliente está prestes a deixar um banco fictício. Para isso, são analisados dados sobre o comportamento passado dos clientes e rescisões de contratos com o banco.
 
-
-
 ## Ferramentas e Bibliotecas Utilizadas
 - **Python**: Linguagem principal utilizada para a análise.
 - **Pandas**: Biblioteca para manipulação e análise de dados.
