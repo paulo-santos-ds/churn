@@ -48,8 +48,6 @@ O conjunto de dados possui os seguintes campos:
   - Teste
   - Validação
 - Aplicação do modelo com e sem o equilíbrio de classes.
-
-
 ### 5. Métricas de Avaliação
 - F1-score
 - AUC-ROC
